@@ -1,0 +1,1 @@
+# LAB-Portswigger-Client-side-prototype-pollution-via-browser-APIs-write-up
